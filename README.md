@@ -1,17 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+# <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> About Me !
+My name is Ashok Kumawat and I'm working as fullstack a software developer. I'm from India
 
-Hello, folks! 
-My name is Ashok Kumawat and I'm a software developer. I'm from India
-     
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+# <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="30px"> Skills
 
-📈 GitHub Stats
-
-- 👋 Hi, I’m @asaakumawat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+C# | MVC | .Net Core | SQL Server | Angular | Jquery | Javascript
