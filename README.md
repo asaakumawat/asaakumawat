@@ -5,6 +5,7 @@
 Hello, folks! 
 My name is Ashok Kumawat and I'm a software developer. I'm from India
      
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 📈 GitHub Stats
 
